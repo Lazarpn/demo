@@ -1,1 +1,3 @@
 Adding initial text to license file
+
+Adding some changes upon master branch, and some on updates.
