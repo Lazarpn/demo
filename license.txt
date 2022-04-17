@@ -5,3 +5,5 @@ Adding some changes upon master branch, and some on updates.
 Adding another change
 
 Changes upon updates branch
+
+## Apache 3.0
